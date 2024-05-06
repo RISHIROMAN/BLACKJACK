@@ -1,5 +1,5 @@
 let player = {                    // we used class here 
-    name: "Yadubir",
+    name: "Rishiraj Singh",
     chips: 145
 }
 let cards = []    // array
